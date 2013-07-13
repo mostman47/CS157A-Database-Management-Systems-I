@@ -8,7 +8,7 @@ Team
 ------------------------
 
 Tools
-  -Netbeans
+  -Eclipse
   -Oracle DB
   
 Discussion
