@@ -9,6 +9,7 @@ Team
 
 Tools
   -Eclipse
+  -Netbeans
   -Oracle DB
   
 Discussion
